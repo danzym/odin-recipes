@@ -23,7 +23,3 @@ To use the website, navigate through the pages using the links provided on each 
 - A detailed description of the recipe
 - A list of ingredients
 - Step-by-step instructions for preparing the dish
-
-## Credits
-
-This project was created as a part of [The Odin Project's](https://www.theodinproject.com/) curriculum. A special thanks to the Odin Project community for providing the learning resources and environment to undertake this project.
