@@ -4,7 +4,7 @@ This project is part of [The Odin Project's](https://www.theodinproject.com/) cu
 
 - Well-done Steak
 - Classic Pierogi
-- Raspberry Swirl Cheesecake
+- Raspberry Cheesecake
 
 The project aims to demonstrate a clear understanding and application of basic HTML structures including headings, lists, links, and images.
 
