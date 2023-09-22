@@ -1,6 +1,5 @@
 * {
   font-family: "Open Sans", sans-serif;
-  border: 1px solid blue;
 }
 
 h2,
@@ -10,26 +9,31 @@ h1,
   text-align: center;
 }
 
-.name {
+.header-text {
   margin-bottom: 1rem;
   font-size: 4rem;
-  color: dimgrey;
+  color: black;
 }
 
 h1 {
   font-size: 3rem;
 }
 
-.name.products {
-  margin-right: 2rem;
+.name.products li {
+  font-weight: bold;
   font-size: 1.5rem;
   list-style-type: none;
+  display: inline-block;
+  margin-right: 1rem;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 50px 50px;
 }
 
 .return {
@@ -37,4 +41,9 @@ img {
   color: navy;
   font-size: 1.5rem;
   font-weight: bold;
+}
+
+.name-recipes {
+  display: inline-block;
+  margin-bottom: 10px;
 }
